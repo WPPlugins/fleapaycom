@@ -1,0 +1,12 @@
+#api {padding: .5em; background-color: #aa0; color: #fff; font-weight: bold;}
+#api a{color:#fff}
+#key {font-family: 'Courier New', Courier, mono; font-size: 1.5em;}
+
+.inside label { margin: 3px 0; display: block; }
+#fleapay_list { margin-top: 10px; }
+.fleapay_product { margin: 10px 0; line-height: 20px; }
+.fleapay_product_remove {
+    margin-right: 4px; padding: .25em; font-weight: bold; background: #ccc; color: white; cursor: pointer; -moz-border-radius: 10px; border-radius: 10px;
+}
+
+.fleapay_product_remove:hover { background: red; }

@@ -1,0 +1,9 @@
+/* front-end */
+/* feel free to hijack these in your own theme css */
+.fleap_outer { margin: 20px 0; padding: 20px; background: #eee; border: 1px solid #ccc; color: #333; }
+.fleap_view_c { float: right; font-size: 90%; }
+.fleap_price { font-size: 150%; font-weight: bold; margin-bottom: 10px; }
+.fleap_desc { margin-bottom: 20px; }
+.fleap_button { margin-bottom: 10px; }
+.fleap_button a:link, .fleap_button a:visited { -moz-border-radius: 8px; border-radius: 8px; text-decoration: none; color: #fff; background: navy; display: inline; padding: 10px 14px; }
+.fleap_button a:hover { }
